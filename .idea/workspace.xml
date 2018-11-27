@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf9c569a-9d83-4763-9b94-e1b739ad0a67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marvel/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marvel/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marvel/static/images/avengers.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marvel/static/images/marv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marvel/static/images/shield.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marvel/static/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marvel/templates/hero.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marvel/templates/upload.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoMarvel/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoMarvel/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marvel/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/marvel/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marvel/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/marvel/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marvel/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/marvel/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marvel/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/marvel/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marvel/templates/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/marvel/templates/navbar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marvel/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/marvel/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marvel/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/marvel/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="bf9c569a-9d83-4763-9b94-e1b739ad0a67" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,15 +21,6 @@
               <folding>
                 <element signature="e#0#44#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/marvel/templates/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -121,13 +91,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/marvel/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="19" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -277,18 +252,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541119129553</updated>
-      <workItem from="1543351025897" duration="1852000" />
+      <workItem from="1543351025897" duration="2032000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1852000" />
+    <option name="totallyTimeSpent" value="2032000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="89" y="-6" width="1831" height="1086" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26583" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26583" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -302,7 +277,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.24" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.456" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -315,9 +290,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/marvel/apps.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -438,6 +410,9 @@
           <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
