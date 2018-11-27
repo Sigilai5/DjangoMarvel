@@ -1,0 +1,30 @@
+{%extends 'base.html'%}
+{% load bootstrap4 %}
+{% load static %}
+
+{% block content %}
+{{bock.super}}
+<div class="container">
+<div class="row">
+    <div class="col-md-6">
+        <img src="{% static 'images/avengers.png' %}">
+        <img src="{% static 'images/shield.jpeg' %}">
+
+    </div>
+
+    <div class="col-md-6"><form action="{% url 'upload' %}" method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        {% bootstrap_form form %}
+
+        <input type="submit" class="button" value="post">
+
+
+    </form></div>
+</div>
+
+
+</div>
+
+
+
+{% endblock %}
