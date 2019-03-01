@@ -13,8 +13,7 @@ class Category(models.Model):
 class Image(models.Model):
     post_image = models.ImageField(upload_to='post/', default='Image')
     image_caption = models.CharField(max_length=30, null=True)
-    category = models.ForeignKey(Category, null=True, blank=True,on_delete=False)
-
+    category = models.ForeignKey(Category, null=True, blank=True,on_delete=models.CASCADE)
 
 
     def __str__(self):

@@ -8,5 +8,6 @@ urlpatterns = [
     url(r'^hero/(\d+)',views.hero,name ='hero'),
     url(r'^upload/',views.upload,name ='upload')
 ]
+
 if settings.DEBUG:
     urlpatterns+= static(settings.MEDIA_URL, document_root = settings.MEDIA_ROOT)
